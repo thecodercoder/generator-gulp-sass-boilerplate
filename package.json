@@ -9,6 +9,10 @@
   "keywords": [
     "yeoman-generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecodercoder/generator-gulp-sass-boilerplate.git"
+  },
   "author": "thecodercoder",
   "license": "ISC"
 }

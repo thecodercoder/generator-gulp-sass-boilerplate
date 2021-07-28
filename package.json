@@ -1,0 +1,14 @@
+{
+  "name": "generator-gulp-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Generates a scaffolding for a front-end workflow with Gulp and Sass",
+  "main": "index.js",
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "thecodercoder",
+  "license": "ISC"
+}

@@ -2,7 +2,7 @@ const Generator = require('yeoman-generator');
 
 module.exports = class extends Generator {
 	welcome() {
-		this.log('Welcome to the Gulp and Sass Generator!!!');
+		this.log('Welcome to the Gulp and Sass Generator!!!!!');
 	}
 
 	writing() {
